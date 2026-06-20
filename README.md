@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ravi Aymara
+# Hi 👋, I'm Ravi Aymara, the **WEB 3 SURFER**
 
 🚀 **Junior Software Engineer | TypeScript & Rust (Solana)**  
 🇧🇷 **Brazil**
