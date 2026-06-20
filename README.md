@@ -13,14 +13,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/w3-surfer">
-    <img src="https://img.shields.io/badge/GitHub-w3-surfer-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/ravi.aymara">
     <img src="https://img.shields.io/badge/Instagram-@RAVI.AYMARA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ravi-aymara">
-    <img src="https://img.shields.io/badge/LinkedIN@RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0%20RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.youtube.com/@ravi.aymara">
     <img src="https://img.shields.io/badge/YouTube-O%20RAVI%20AYMARA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
