@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ravi Aymara
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer | TypeScript & Anchor**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -17,13 +17,13 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/ravi.aymara">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@RAVI.AYMARA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
     <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.youtube.com/@ravi.aymara">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-O%20RAVI%20AYMARA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -76,8 +76,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3-surfer&layout=compact&theme=tokyonight" />
 </p>
 
 ---
