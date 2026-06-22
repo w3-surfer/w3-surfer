@@ -22,21 +22,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   </a>
 </p>
 
----
-
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Web 3 protocols (Blockchain)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -55,6 +40,17 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,git,figma)](https://skillicons.dev)
 
+
+## 🧠 What I do
+
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+-   🎓 Web 3 protocols (Blockchain)
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=merko&count_private=true" />
