@@ -57,6 +57,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Blockchain
 
+[![My Skills](https://skillicons.dev/icons?i=rust,anchor,solidity)](https://skillicons.dev)
+
 ![Rust](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Anchor](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Solidity](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -70,6 +72,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
