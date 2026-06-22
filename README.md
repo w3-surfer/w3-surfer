@@ -45,7 +45,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres,supabase)](https://skillicons.dev)
 
 ### Blockchain
 
