@@ -22,7 +22,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,git,figma,framer)](https://skillicons.dev)
 
 
 ## 🧠 What I do
