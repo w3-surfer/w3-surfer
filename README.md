@@ -41,6 +41,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Frontend
 
+[![My Skills](https://skillicons.dev/icons?i=js, ts, react, next, tailwind)](https://skillicons.dev)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -49,6 +51,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=node,prisma,mysql,postgre)](https://skillicons.dev)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
