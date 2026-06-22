@@ -12,7 +12,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <a href="https://instagram.com/ravi.aymara">
-    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
   </a>
   <a href="https://www.linkedin.com/in/ravi-aymara">
     <img src="https://img.shields.io/badge/LinkedIn-%20RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
