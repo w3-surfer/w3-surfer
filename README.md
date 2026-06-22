@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ravi Aymara, the **WEB 3 SURFER**
 
-🚀 **Junior Software Engineer | TypeScript & Rust (Solana)**  
+🚀 **Junior Software Engineer | TypeScript & Rust (Anchor)**  
 🇧🇷 **Brazil**
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -54,6 +54,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### Blockchain
+
+![Rust](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Anchor](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Solidity](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ### DevOps & Tools
 
