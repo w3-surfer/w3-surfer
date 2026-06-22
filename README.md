@@ -56,25 +56,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,git,figma)](https://skillicons.dev)
 
 
-
----
-
-
-
-## 📊 GitHub Stats
-
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=merko&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3-surfer&layout=compact&theme=merko" />
 </p>
-
----
-
-## 🚀 Philosophy
-
-> _"In Code we Trust."_  
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
