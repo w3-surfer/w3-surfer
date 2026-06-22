@@ -11,14 +11,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://instagram.com/ravi.aymara">
-    <img src="https://img.shields.io/badge/Instagram%20RAVI%20AYMARA-000000?style=for-the-badge&logo=instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/ravi-aymara">
     <img src="https://img.shields.io/badge/LinkedIn-%20RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.youtube.com/@ravi.aymara">
-    <img src="https://img.shields.io/badge/YouTube-%20RAVI%20AYMARA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
