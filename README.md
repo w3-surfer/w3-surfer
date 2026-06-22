@@ -64,8 +64,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=dark&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3-surfer&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=merko&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3-surfer&layout=compact&theme=gruvbox" />
 </p>
 
 ---
