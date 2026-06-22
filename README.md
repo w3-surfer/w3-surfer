@@ -41,7 +41,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js, ts, react, next, tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -52,7 +52,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=node,prisma,mysql,postgre)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgre)](https://skillicons.dev)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
@@ -62,10 +62,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ### Blockchain
 
 [![My Skills](https://skillicons.dev/icons?i=rust,anchor,solidity)](https://skillicons.dev)
-
-![Rust](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Anchor](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Solidity](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ### DevOps & Tools
 
