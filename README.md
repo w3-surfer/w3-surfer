@@ -1,6 +1,6 @@
 # Hi 👋, I'm the **WEB 3 SURFER**
 
-🚀 **Junior Software Engineer | TypeScript & Rust (Anchor)**  
+🚀 **Software Engineer | TypeScript & Rust (Anchor)**  
 🇧🇷 **Brazil**
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
