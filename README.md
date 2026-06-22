@@ -63,7 +63,13 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 [![My Skills](https://skillicons.dev/icons?i=rust,anchor,solidity)](https://skillicons.dev)
 
+### AI
+
+[![My Skills](https://skillicons.dev/icons?i=claude,cursor,runway,elevenlabs)](https://skillicons.dev)
+
 ### DevOps & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,git,figma)](https://skillicons.dev)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
