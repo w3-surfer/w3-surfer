@@ -6,14 +6,6 @@
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-## My Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ravi-aymara">
-    <img src="https://img.shields.io/badge/LinkedIn-%20RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -47,4 +39,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=w3-surfer&show_icons=true&theme=merko&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3-surfer&layout=compact&theme=merko" />
+</p>
+
+## Contact me for collab
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravi-aymara">
+    <img src="https://img.shields.io/badge/LinkedIn-%20RAVI%20AYMARA-000000?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
